@@ -33,6 +33,7 @@ The tasks focus on taking user input, performing basic operations, string manipu
 - Division: 2.0
 
 3. Run Task 2:
+
 python task2_personalized_greeting.py
 
 - Enter your first name: John
