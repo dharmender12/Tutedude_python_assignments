@@ -19,4 +19,23 @@ The tasks focus on taking user input, performing basic operations, string manipu
 - Prints a personalized greeting message.
 
 ### 🖥 How to Run
-Navigate to the Assignment_1 folder:
+1. Navigate to the Assignment_1 folder:
+   - cd Assignment_1
+2. Run Task 1:
+  - python task1_math_operations.py
+
+ #### Example Output : 
+ Enter first number: 10
+ Enter second number: 5
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.0
+
+3. Run Task 2:
+python task2_personalized_greeting.py
+
+Enter your first name: John
+Enter your last name: Doe
+Hello, John Doe! Welcome!
+
