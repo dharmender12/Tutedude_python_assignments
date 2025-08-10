@@ -4,16 +4,19 @@ The tasks focus on taking user input, performing basic operations, string manipu
 
 ### 📂 Files in this Assignment
 1. task1_math_operations.py
-Takes two numbers from the user.
-- Performs:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-Displays results for each operation.
+- Takes two numbers from the user.
+  - Performs:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Displays results for each operation.
 
 2. task2_personalized_greeting.py
 
 - Takes first name and last name as input.
 - Combines them into a full name.
 - Prints a personalized greeting message.
+
+### 🖥 How to Run
+Navigate to the Assignment_1 folder:
