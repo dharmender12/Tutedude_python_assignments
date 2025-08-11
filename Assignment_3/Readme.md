@@ -24,8 +24,9 @@ It demonstrates the use of **functions** and the **math module**.
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
+```bash
+git clone <your-repo-link>
+```
 2. Navigate to the folder:
 ```
 cd Assignment_3
