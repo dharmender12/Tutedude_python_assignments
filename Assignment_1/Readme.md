@@ -20,8 +20,10 @@ The tasks focus on taking user input, performing basic operations, string manipu
 
 ### 🖥 How to Run
 1. Navigate to the Assignment_1 folder:
-   - cd Assignment_1
-2. Run Task 1:
+```
+  cd Assignment_1
+```
+3. Run Task 1:
    ```
    python task1_math_operations.py
 
