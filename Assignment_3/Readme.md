@@ -36,3 +36,17 @@ cd Assignment_3
 python factorial_function.py
 python math_module_calculations.py
 ```
+
+#### 📝 Expected Output
+#### Task 1 (Factorial Calculation)
+```
+Enter a number to calculate factorial: 5
+Factorial of 5 is: 120
+```
+#### Task 2 (Math Module Calculations)
+```
+Enter a number: 25
+Square root of 25 is: 5.0
+Natural logarithm of 25 is: 3.2188758248682006
+Sine of 25 (in radians) is: -0.13235175009777303
+```
