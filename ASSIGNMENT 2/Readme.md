@@ -29,7 +29,3 @@ It includes two Python scripts demonstrating the use of **if-else statements** a
    ```
    python even_odd.py
    python sum_1_to_50.py
-
-
-   
-
