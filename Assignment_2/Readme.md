@@ -25,7 +25,6 @@ It includes two Python scripts demonstrating the use of **if-else statements** a
 2. Navigate to the folder:
    ```
    cd Assignment_2
-
 3. Run the scripts:
 ```
 python even_odd.py
