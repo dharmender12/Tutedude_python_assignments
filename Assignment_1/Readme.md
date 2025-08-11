@@ -24,9 +24,9 @@ The tasks focus on taking user input, performing basic operations, string manipu
   cd Assignment_1
 ```
 3. Run Task 1:
-   ```
-   python task1_math_operations.py
-
+```
+python task1_math_operations.py
+```
  #### Example Output : 
 - Enter first number: 10
 - Enter second number: 5
