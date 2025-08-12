@@ -19,10 +19,34 @@ Reading 'sample.txt'...
 Hello World
 This is sample content.
 
-shell
-Copy
-Edit
-
 
 ### Example (File Missing)
+
+Error: The file 'sample.txt' does not exist.
+
+---
+
+## Task 2: Write and Append Data to a File
+This program:
+- Takes user input and writes it to a file named `output.txt`
+- Appends additional user input to the same file
+- Reads and displays the final file content
+
+### Example
+
+Enter data to write into the file: 25
+Enter additional data to append: 50
+
+Final content of 'output.txt':
+
+25
+50
+
+---
+
+## Files in This Repository
+- `task1_read_file.py` → Task 1 solution
+- `task2_write_append_file.py` → Task 2 solution
+- `README.md` → Documentation file
+- `sample.txt` → (Optional) For testing Task 1
 
