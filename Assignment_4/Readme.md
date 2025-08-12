@@ -7,17 +7,22 @@ This repository contains Python scripts for:
 
 ---
 
-## **Task 1: Read a File and Handle Errors**
-- Opens and reads a text file named `sample.txt`.
-- Prints content line by line.
-- Handles errors gracefully if the file does not exist.
+## Task 1: Read a File and Handle Errors
+This program:
+- Opens and reads a file named `sample.txt`
+- Prints each line of the file
+- Handles the error gracefully if the file does not exist
 
-**Run:**
-```bash
-python task1_read_file.py
-```
-Task 2: Write and Append Data to a File
-- Takes user input and writes it to output.txt.
-- Appends additional data.
-- Reads and displays the final file content.
+### Example (File Exists)
+Reading 'sample.txt'...
+
+Hello World
+This is sample content.
+
+shell
+Copy
+Edit
+
+
+### Example (File Missing)
 
