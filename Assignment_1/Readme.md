@@ -39,6 +39,7 @@ python task1_math_operations.py
 ```
 python task2_personalized_greeting.py
 ```
+#### Example output : 
 - Enter your first name: John
 - Enter your last name: Doe
 - Hello, John Doe! Welcome!
