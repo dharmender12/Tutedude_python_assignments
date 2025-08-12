@@ -15,4 +15,9 @@ This repository contains Python scripts for:
 **Run:**
 ```bash
 python task1_read_file.py
+```
+Task 2: Write and Append Data to a File
+- Takes user input and writes it to output.txt.
+- Appends additional data.
+- Reads and displays the final file content.
 
