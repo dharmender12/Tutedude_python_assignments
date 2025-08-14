@@ -16,6 +16,7 @@ This repository contains two Python scripts that demonstrate the use of dictiona
 **Example:**
 
 - Enter the student's name: Bob
+- Bob's marks: 92
 ---
 
 ## **Task 2: Demonstrate List Slicing**
@@ -30,3 +31,10 @@ This repository contains two Python scripts that demonstrate the use of dictiona
 
 Original first five elements: [1, 2, 3, 4, 5]
 Reversed list: [5, 4, 3, 2, 1]
+
+---
+
+## **How to Run**
+1. Clone this repository:
+```bash
+git clone <your-repo-link>
