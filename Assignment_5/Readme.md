@@ -16,3 +16,16 @@ This repository contains two Python scripts that demonstrate the use of dictiona
 **Example:**
 
 Enter the student's name: Bob
+---
+
+## **Task 2: Demonstrate List Slicing**
+- Creates a list of numbers from 1 to 10.
+- Extracts the first five elements.
+- Reverses the extracted list.
+- Prints both the original extracted list and the reversed list.
+
+**File:** `task2_list_slicing.py`
+
+**Example:**
+Original first five elements: [1, 2, 3, 4, 5]
+Reversed list: [5, 4, 3, 2, 1]
