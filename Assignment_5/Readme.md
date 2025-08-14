@@ -38,3 +38,14 @@ Reversed list: [5, 4, 3, 2, 1]
 1. Clone this repository:
 ```bash
 git clone <your-repo-link>
+```
+2. Navigate to the folder:
+```bash
+cd assignment5
+```
+3. Run the scripts:
+```bash
+python task1_student_marks.py
+python task2_list_slicing.py
+```
+   
