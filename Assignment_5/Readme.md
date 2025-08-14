@@ -41,7 +41,7 @@ git clone <your-repo-link>
 ```
 2. Navigate to the folder:
 ```bash
-cd assignment5
+cd Assignment_5
 ```
 3. Run the scripts:
 ```bash
