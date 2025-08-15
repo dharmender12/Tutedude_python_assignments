@@ -27,7 +27,8 @@ This repository contains two Python scripts that demonstrate the use of dictiona
 
 **File:** `task2_list_slicing.py`
 
-**Example:** \n
+**Example:** 
+
 Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 Original first five elements: [1, 2, 3, 4, 5]
